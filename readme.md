@@ -15,7 +15,7 @@ __Example:__
 
 ```js
 // The XKCD URL below doesn't allow CORS.
-fetch('https://cors.now.sh/http://xkcd.com/info.0.json')
+fetch('https://cors.now.sh/http://bintang29.info/info.0.json')
 .then(console.log)
 .catch(console.error)
 ```
