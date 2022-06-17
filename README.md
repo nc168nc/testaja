@@ -1,2 +1,0 @@
-# testaja
-okebisayuk
